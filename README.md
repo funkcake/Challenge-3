@@ -1,2 +1,2 @@
 # Password Generator
- password generator
+ Generates a password based on the options picked.
