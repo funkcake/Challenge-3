@@ -1,2 +1,2 @@
-# Challenge-3
+# Password Generator
  password generator
